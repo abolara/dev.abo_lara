@@ -88,20 +88,13 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ##### It was built on a platform TeleSeed after it has been modified.🔧🌐
 
 # Developer🔰
-### [@iDev1](https://telegram.me/iDev1)
+### [@II06II](https://telegram.me/II06II)
 
-# Special thanks to😋❤️
 
-* #### Oscar
-* #### Mico 
-* #### Mouamle
-* #### TeleSeed Team
-* #### DBTeam
-# Our channels 😍👍
-* #### [@MastersDev](https://telegram.me/OSCARBOTv2)🌚⚠
-* #### [@OSCARBOTv2](https://telegram.me/Malvoo)🌚🔌
-* #### [@MouamleAPI](https://telegram.me/MouamleAPI)🌚🔩
-* #### [@Malvoo](https://telegram.me/MastersDev)🌚🔧
+#special thanks
+(@ABA_ALFADEL) (https://telegram.me/ABA_ALFADEL(
+
+
  
 # My YouTube Channel
 #### [YouTube](https://www.youtube.com/channel/UCKsJSbVGNGyVYvV5B2LrUkA)
