@@ -1,4 +1,4 @@
-# [MastersDev](https://telegram.me/MastersDev)
+# [@dev_laith_tv](https://telegram.me/dev_laith_tv)
 
 [![https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/MastersDev/MastersDevelpers.svg)](https://gitter.im/MastersDev/MastersDevelpers?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
@@ -92,9 +92,7 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 
 
 #special thanks
-(@ABA_ALFADEL) (https://telegram.me/ABA_ALFADEL(
-
-
- 
-# My YouTube Channel
-#### [YouTube](https://www.youtube.com/channel/UCKsJSbVGNGyVYvV5B2LrUkA)
+###  (@ABA_ALFADEL) (https://telegram.me/ABA_ALFADEL)
+###  (@Iq_aq) (https://telegram.me/Iq_aq)
+###  (@Abbasali_16)  (https://telegram.me/Abbasali_16)
+###  (@Il_NAPON_lI)  (https://telegram.me/Il_NAPON_lI) 
