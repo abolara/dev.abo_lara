@@ -1,4 +1,4 @@
-# [@dev_laith_tv](https://telegram.me/dev_laith_tv)
+# [MastersDev](https://telegram.me/MastersDev)
 
 [![https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/MastersDev/MastersDevelpers.svg)](https://gitter.im/MastersDev/MastersDevelpers?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
@@ -43,8 +43,8 @@ sudo apt-get upgrade
 redis-server
 
 # Let's install the bot.
-git clone https://github.com/MastersDev/Masters.git
-cd Masters
+git clone https://github.com/abolara/dev.abo_lara.git
+cd abo_lara
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -53,7 +53,7 @@ chmod +x launch.sh
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/MastersDev/Masters.git && cd Masters && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/abolara/dev.abo_lara.git && cd abo_lara && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
@@ -92,7 +92,9 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 
 
 #special thanks
-###  (@ABA_ALFADEL) (https://telegram.me/ABA_ALFADEL)
-###  (@Iq_aq) (https://telegram.me/Iq_aq)
-###  (@Abbasali_16)  (https://telegram.me/Abbasali_16)
-###  (@Il_NAPON_lI)  (https://telegram.me/Il_NAPON_lI) 
+(@ABA_ALFADEL) (https://telegram.me/ABA_ALFADEL(
+
+
+ 
+# My YouTube Channel
+#### [YouTube](https://www.youtube.com/channel/UCKsJSbVGNGyVYvV5B2LrUkA)
